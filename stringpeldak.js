@@ -16,7 +16,7 @@ let txtUp = txt.toUpperCase();
 console.log(txtUp);
 
 //6. Feladat
-let txt_2_up = "";
+let txt_2_up = "a";
 for (let i = 0; i < txt.length; i++) {
   if (i % 2 == 0) {
     txt_2_up += txt[i].toUpperCase();
